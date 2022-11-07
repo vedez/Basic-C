@@ -1,7 +1,7 @@
 # C_Programming
 
 
-| Information |/n
+| Information |  |
 |-----------|-----------|
 |Module |  Programming (CMPU1025) |
 |Language | C |
