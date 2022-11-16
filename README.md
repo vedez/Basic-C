@@ -9,4 +9,3 @@
 | Language | C |
 | Lecturer |  Dr Michael Collins |
 | Source | Tchnological University Dublin (TUD) |
-
