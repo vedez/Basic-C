@@ -8,4 +8,4 @@
 | Module Code | CMPU1025 |
 | Language | C |
 | Lecturer |  Dr Michael Collins |
-| Source | Tchnological University Dublin (TUD) |
+| Source | Technological University Dublin (TUD) |
