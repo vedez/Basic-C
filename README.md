@@ -12,15 +12,13 @@
 | Lecturer |  Dr Michael Collins |
 | Source | Technological University Dublin (TUD) |
 
-## List of programs
-
-### Labs
-#### Week 01: lab_01
+## Labs
+### Week 01: lab_01
 - correctTheProg.c
 - myFirstIO.c
 - name_address_output.c
 
-#### Week 02: lab_02
+### Week 02: lab_02
 - areaOfCircle.c
 - calc_01_average.c
 - calc_01_sum.c
@@ -30,5 +28,4 @@
 - volumeOfCube.c
 
 ### Projects
-
 N/A
