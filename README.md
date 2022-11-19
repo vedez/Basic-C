@@ -20,4 +20,15 @@
 - myFirstIO.c
 - name_address_output.c
 
+#### Week 02: lab_02
+- areaOfCircle.c
+- calc_01_average.c
+- calc_01_sum.c
+- increment_alphabet.c
+- modulus.c
+- volume_surf-area.c
+- volumeOfCube.c
+
 ### Projects
+
+N/A

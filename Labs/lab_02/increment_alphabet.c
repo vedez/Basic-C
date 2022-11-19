@@ -7,11 +7,5 @@ Description:
 
 int main()
 {
-    char alpha_ = 'a';
-
-    for(int i = 0; i < 26; i++){
-        printf("%c\t", alpha_);
-        alpha_++;
-    }
-    
+    for(char alpha_ = 'a'; alpha_ <= 'z'; alpha_++) printf("%c\t", alpha_);   
 }
