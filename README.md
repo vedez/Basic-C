@@ -15,11 +15,9 @@
 ## List of programs
 
 ### Labs
-
-Week 01: lab_01
-
-    - correctTheProg.c
-    - myFirstIO.c
-    - name_address_output.c
+#### Week 01: lab_01
+- correctTheProg.c
+- myFirstIO.c
+- name_address_output.c
 
 ### Projects
