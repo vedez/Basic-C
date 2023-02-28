@@ -20,22 +20,22 @@ Write separate programs to do the following:
 #include <stdio.h>
 
 int main() {
-    char Qmessage[] = "Please enter 3 numbers between 1 to 10.";
+char Qmessage[] = "Please enter 3 numbers between 1 to 10.";
     char display_message[] = "These are the numbers you have entered: ";
     int num_str[3];
+    int sam;
 
-    printf("%s", Qmessage);
-
-    for (int i = 0; i <= 3; i++) {
-        scanf("%d", num_str[i]);
-    }
-    
-    printf("%s", display_message);
+    printf("\n\n%s\n", Qmessage);
 
     for (int i = 0; i < 3; i++) {
-        printf("%d", num_str[i]);
-    }
+    scanf("%d", &num_str[i]);
+    }while (getchar() != '\n');
 
+    printf("\n%s", display_message);
 
+    for (int i = 0; i < 3; i++) {
+    printf("\n%d", num_str[i]);
+  }
+  
 }
 
