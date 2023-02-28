@@ -11,5 +11,5 @@ int main()
 
     for(int i = 1; i <= 5; i++) sum += i;
 
-    printf("The sum of 1 - 5 is %d", sum);
+    printf("The sum of 1 to 5 is %d", sum);
 }
