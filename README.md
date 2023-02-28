@@ -27,5 +27,8 @@
 - volume_surf-area.c
 - volumeOfCube.c
 
+### Week 03: lab_03
+- 
+
 ### Projects
 N/A
