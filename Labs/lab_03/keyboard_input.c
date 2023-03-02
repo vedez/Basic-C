@@ -19,23 +19,27 @@ Write separate programs to do the following:
 
 #include <stdio.h>
 
-int main() {
+int main(void) {
+  /*Setting display messages to a variable.*/
   char Qmessage[] = "Please enter 3 numbers between 1 to 10.";
   char display_message[] = "These are the numbers you have entered: ";
+
+  //Local Variables
   int num_str[3];
   int sam;
 
   printf("\n\n%s\n", Qmessage);
 
+  //Taking inputs from user into an array
   for (int i = 0; i < 3; i++) {
-  scanf("%d", &num_str[i]);
-  }while (getchar() != '\n');
+    scanf("%d", &num_str[i]);
+  }while (getchar() != '\n'); //Error "enter" bug fixer.
 
   printf("\n%s", display_message);
 
+  //Displaying variables in the array
   for (int i = 0; i < 3; i++) {
-  printf("\n%d", num_str[i]);
-  } 
-  
+    printf("\n%d", num_str[i]);
+  }
 }
 
