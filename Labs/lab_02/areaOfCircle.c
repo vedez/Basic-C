@@ -13,5 +13,5 @@ int main()
     float radius = 4.8;
     float area = pi_*pow(radius, 2);
 
-    printf("The are of this circle is %.2f", area);
+    printf("The area of this circle is %.2f", area);
 }
