@@ -14,4 +14,6 @@ int main()
     {
         printf("Answer: %d\n", arr[i]);
     }
+
+    return 0;
 }

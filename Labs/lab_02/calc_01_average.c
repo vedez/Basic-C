@@ -20,4 +20,6 @@ int main()
     }
 
     printf("The average of 1.0 ... 2.0 is %.2f", total/counter);
+
+    return 0;
 }

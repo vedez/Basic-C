@@ -102,4 +102,6 @@ int main(void) {
   printf("\n%.3f", float_arr[1]); // 3 decimal places
   printf("\n%.0f", float_arr[2]); // No decimal places
 
+  return 0;
+
 }

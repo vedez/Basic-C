@@ -11,4 +11,6 @@ int main()
     float volume = pow(2.8,3);
 
     printf("The volume of the cube is %.2f", volume);
+
+    return 0;
 }

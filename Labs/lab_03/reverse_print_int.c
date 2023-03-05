@@ -23,5 +23,7 @@ int main(void) {
     for (int i = SIZE - 1; i >= 0; i--) {
         printf("\n%d", arr_num[i]);
     } 
+    
+    return 0;
 
 }

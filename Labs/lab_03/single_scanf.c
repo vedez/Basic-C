@@ -51,4 +51,6 @@ int main(void) {
     scanf("%c%d%f%ld", &c, &i, &f, &d); //while (getchar() != '\n');
     printf("%s%c\n%d\n%.2f\n%ld", display_message, c, i, f, d);   
 
+    return 0;
+
 }

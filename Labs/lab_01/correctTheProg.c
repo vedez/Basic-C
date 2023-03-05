@@ -28,4 +28,6 @@ int main()
     
     printf("The value of num1 is %d\n", num1);
     printf("num2 is %d", num2);
+
+    return 0;
 }

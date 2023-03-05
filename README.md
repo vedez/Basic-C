@@ -30,7 +30,9 @@
 ### Week 03: lab_03
 - keyboard_input.c
 - single_scanf.c
-- reverse_print_int.cs
+- reverse_print_int.c
+- bpm_calc.c
+- conver_celsius_to_fahrenheit.c
 
 ### Projects
 N/A

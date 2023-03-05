@@ -16,4 +16,6 @@ int main()
 
     printf("The volume of this box is %.2f", volume);
     printf("\nThe surface area of this box is %.2f", surf_area);
+
+    return 0;
 }
