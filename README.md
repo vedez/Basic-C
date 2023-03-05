@@ -28,7 +28,9 @@
 - volumeOfCube.c
 
 ### Week 03: lab_03
-- 
+- keyboard_input.c
+- single_scanf.c
+- reverse_print_int.cs
 
 ### Projects
 N/A
