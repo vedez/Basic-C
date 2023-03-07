@@ -18,7 +18,7 @@
 - myFirstIO.c
 - name_address_output.c
 
-### Week 02: lab_02
+#### Week 02: lab_02
 - areaOfCircle.c
 - calc_01_average.c
 - calc_01_sum.c
@@ -27,19 +27,19 @@
 - volume_surf-area.c
 - volumeOfCube.c
 
-### Week 03: lab_03
+#### Week 03: lab_03
 - keyboard_input.c
 - single_scanf.c
 - reverse_print_int.c
 - bpm_calc.c
 - conver_celsius_to_fahrenheit.c
 
-### Week 03: lab_04
+#### Week 03: lab_04
 - odd_even.c
 - vowel_consonant.c
 - a_mod_b.c
 - valid_triangle.c
 - numbers_to_words.c
 
-### Projects
+## Projects
 N/A
