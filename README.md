@@ -13,7 +13,7 @@
 | Source | Technological University Dublin (TUD) |
 
 ## Labs
-### Week 01: lab_01
+#### Week 01: lab_01
 - correctTheProg.c
 - myFirstIO.c
 - name_address_output.c
