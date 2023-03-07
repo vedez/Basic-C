@@ -34,5 +34,12 @@
 - bpm_calc.c
 - conver_celsius_to_fahrenheit.c
 
+### Week 03: lab_04
+- odd_even.c
+- vowel_consonant.c
+- a_mod_b.c
+- valid_triangle.c
+- numbers_to_words.c
+
 ### Projects
 N/A
