@@ -1,0 +1,1 @@
+while (getchar() != '\n'); //Error "enter" bug fixer. In scenario, userinput == char.
