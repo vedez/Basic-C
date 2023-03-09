@@ -32,21 +32,9 @@ int main(void) {
     //Use multiple function and print the follwing multiples of the number
     switch (userinput){
         case 1:
-            printf("%s%d:", dm, userinput);
-            multiple(userinput);            
-            break;
         case 2:
-            printf("%s%d:", dm, userinput);
-            multiple(userinput);            
-            break;
         case 3:
-            printf("%s%d:", dm, userinput);
-            multiple(userinput);            
-            break;
         case 4:
-            printf("%s%d:", dm, userinput);
-            multiple(userinput);            
-            break;
         case 5:
             printf("%s%d:", dm, userinput);
             multiple(userinput);            
