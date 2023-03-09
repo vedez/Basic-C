@@ -7,9 +7,7 @@ Description:
 
 //Function: To find multiples of the number between 1-20 using modulus
 int multiple(int input) {
-    for(int i = 1; i <= 20; i++) {
-        if(i%input == 0) printf("\n%d", i);
-    }
+    for(int i = 1; i <= 20; i++) if(i%input == 0) printf("\n%d", i);; //2 (;) or 1, both works?
 }
 
 /*MAIN*/
