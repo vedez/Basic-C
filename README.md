@@ -47,5 +47,12 @@
 - number_sequence.c
 - sum_of_odds.c
 
+#### Week 06: lab_06
+- array_copy.c
+- ascending_elements.c
+- char_array.c
+- copy_array_reversed.c
+- swap_elements.c
+
 ## Projects
 N/A
