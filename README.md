@@ -54,5 +54,11 @@
 - copy_array_reversed.c
 - swap_elements.c
 
+#### Week 07: lab_07
+- 3by2_2Darr.c
+- find_element_2Darr.c
+- multi_2arr.c
+- ones_zeros.c
+
 ## Projects
 N/A
