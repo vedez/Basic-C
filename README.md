@@ -60,5 +60,9 @@
 - multi_2arr.c
 - ones_zeros.c
 
+#### Week 08: lab_08
+- multi_2arr_2ver.c
+- add_row_col.c
+
 ## Projects
 N/A
