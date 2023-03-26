@@ -64,5 +64,10 @@
 - multi_2arr_2ver.c
 - add_row_col.c
 
+#### Week 09: lab_09
+- pointer_intro.c
+- adding_through_pointers.c
+- pointer_notation.c
+
 ## Projects
 N/A
