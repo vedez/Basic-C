@@ -70,7 +70,11 @@
 - pointer_notation.c
 
 #### Week 10: lab_10
-- 
+- sapce_to_underline.c
+- miles_per_litre.c
+- malloc_calloc.c
+- avg_usingDMA.c
+- avg_usingDMA_ver2.c
 
 ## Projects
 N/A
