@@ -35,4 +35,6 @@ int main(void) {
             printf("%s%d\n", dm[2], arrC[i][j]);
         }
     }
+
+    return 0;
 }

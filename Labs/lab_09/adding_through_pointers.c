@@ -24,4 +24,5 @@ int main(void){
     *ptr3 = *ptr1 + *ptr2;
     printf("%s%d", dm, *ptr3);
 
+    return 0;
 }

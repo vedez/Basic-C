@@ -23,6 +23,5 @@ int main(void) {
     printf("%s", dm);
     for(int i = 0; i < SIZE; i++) printf("%d ", arrB[i]);
     
-
-
+    return 0;
 }

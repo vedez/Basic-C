@@ -42,4 +42,6 @@ int main(void) {
     //Printing array
     printf("%s", dm);
     for(int i = 0; i < SIZE; i++) printf("%d", num[i]);
+
+    return 0;
 }

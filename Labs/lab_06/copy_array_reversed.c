@@ -30,4 +30,6 @@ int main(void){
     printf("%s", dm[1]);
     for(int i = 0; i < SIZE; i++) printf("%d", arrB[i]);
 
+    return 0;
+
 }

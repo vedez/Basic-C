@@ -24,4 +24,6 @@ int main(void){
         result = arrA[i]*arrB[i];
         printf("%s%d\n", dm[2], result);
     }
+
+    return 0;
 }

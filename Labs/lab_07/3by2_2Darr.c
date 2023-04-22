@@ -28,4 +28,6 @@ int main(void) {
     for (int i = 0; i < ROW; i++){
         for(int j = 0; j < COL; j++) ("%d", arr[i][j]);
     }
+
+    return 0;
 }

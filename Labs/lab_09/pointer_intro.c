@@ -35,4 +35,6 @@ int main(void){
     printf("\n%sthe address in ptr1: %d", dm[0], *ptr1);
     printf("%sthe address in ptr2: %c", dm[0], *ptr2);
 
+    return 0;
+
 }

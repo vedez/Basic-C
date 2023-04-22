@@ -49,5 +49,5 @@ int main(void){
     printf("%s%d\n\n", dm[2], high);
 
 
-
+    return 0;
 }

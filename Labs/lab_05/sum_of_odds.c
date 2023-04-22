@@ -16,4 +16,6 @@ int main(void) {
 
     //Display total
     printf("Total: %d", sum);
+
+    return 0;
 }

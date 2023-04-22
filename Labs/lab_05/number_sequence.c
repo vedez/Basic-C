@@ -49,4 +49,6 @@ int main(void) {
         //Display the next value
         printf("%s%d", value_m[1], userinput);
     }
+
+    return 0;
 }

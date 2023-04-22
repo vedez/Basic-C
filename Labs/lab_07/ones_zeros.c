@@ -23,4 +23,6 @@ int main(void) {
         printf("\n");
         for(int j = 0; j < COL; j++) printf("%d  ", arr[i][j]);
     }    
+
+    return 0;
 }

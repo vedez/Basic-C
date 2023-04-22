@@ -27,4 +27,6 @@ int main(void){
 
     //Printint the contents of array B    
     for(int i = 0; i < SIZE; i++) printf("\n%.2f", *(arrB + i));
+
+    return 0;
 }

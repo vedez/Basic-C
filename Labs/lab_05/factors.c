@@ -41,4 +41,6 @@ int main(void) {
             printf("System Error. Restart Program.");
             break;
     }
+
+    return 0;
 }

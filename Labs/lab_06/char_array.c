@@ -23,5 +23,7 @@ int main(void) {
     //Printing Array
     for(int i = 0; i < SIZE; i++) printf("%c, ", arr_char[i]);
 
+    return 0;
+
 }
 //Resource: ref. 01 - https://www.emblogic.com/blog/09/how-to-read-space-by-scanf-in-c/
