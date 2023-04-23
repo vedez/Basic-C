@@ -20,17 +20,17 @@
 ## Labs
 #### Week 01: lab_01
 - [correctTheProg.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_01/correctTheProg.c)
-- myFirstIO.c
-- name_address_output.c
+- [myFirstIO.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_01/myFirstIO.c)
+- [name_address_output.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_01/name_address_output.c)
 
 #### Week 02: lab_02
-- areaOfCircle.c
-- calc_01_average.c
-- calc_01_sum.c
-- increment_alphabet.c
-- modulus.c
-- volume_surf-area.c
-- volumeOfCube.c
+- [areaOfCircle.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_02/areaOfCircle.c)
+- [calc_01_average.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_02/calc_01_average.c)
+- [calc_01_sum.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_02/calc_01_sum.c)
+- [increment_alphabet.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_02/increment_alphabet.c)
+- [modulus.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_02/modulus.c)
+- [volume_surf-area.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_02/volume_surf-area.c)
+- [volumeOfCube.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_02/volumeOfCube.c)
 
 #### Week 03: lab_03
 - keyboard_input.c
