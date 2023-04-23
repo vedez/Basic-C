@@ -4,6 +4,8 @@
 
 "This repository reflects my journey of learning basic programming using C and a platform for programs I make throughout the module." - L Fernandez aka zedev
 
+##### **NOTE**: Chapters listed at the end.
+
 |  | Details |
 |-----------|-----------|
 | Module | Programming |
@@ -11,6 +13,9 @@
 | Language | C |
 | Lecturer |  Dr Michael Collins |
 | Source | Technological University Dublin (TUD) |
+
+## Projects
+1. Fibonacci Sequence
 
 ## Labs
 #### Week 01: lab_01
@@ -75,6 +80,3 @@
 - malloc_calloc.c
 - avg_usingDMA.c
 - avg_usingDMA_ver2.c
-
-## Projects
-N/A
