@@ -19,7 +19,7 @@
 
 ## Labs
 #### Week 01: lab_01
-- correctTheProg.c (https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_01/correctTheProg.c)
+- [correctTheProg.c](https://github.com/vedez/C_Programming/blob/2aaf86c0d2481b6f4b852d9fae367d13b170d6dd/Labs/lab_01/correctTheProg.c)
 - myFirstIO.c
 - name_address_output.c
 
