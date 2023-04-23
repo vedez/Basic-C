@@ -80,3 +80,15 @@
 - malloc_calloc.c
 - avg_usingDMA.c
 - avg_usingDMA_ver2.c
+
+## Chapters Covered
+- Introduction to C
+- Inputs and Outputs
+- Comments and Arithmetics
+- Data Types and Assignment Operation
+- If, Elif, Else, and Switch Statements
+- While, Do While, and For Loops
+- Arrays
+- Pointers
+- Subscription and Pointer Notation
+- Dynamic Memory Allocation (DMA)
