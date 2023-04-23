@@ -15,7 +15,7 @@
 | Source | Technological University Dublin (TUD) |
 
 ## Projects
-1. Fibonacci Sequence
+- Fibonacci Sequence
 
 ## Labs
 #### Week 01: lab_01
