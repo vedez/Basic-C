@@ -1,18 +1,6 @@
-# C_Programming
-
-## About
+# About
 
 "This repository reflects my journey of learning basic programming using C and a platform for programs I make throughout the module." - L Fernandez aka zedev
-
-##### **NOTE**: Chapters listed at the end.
-
-|  | Details |
-|-----------|-----------|
-| Module | Programming |
-| Module Code | CMPU1025 |
-| Language | C |
-| Lecturer |  Dr Michael Collins |
-| Source | Technological University Dublin (TUD) |
 
 ## Projects
 - [Fibonacci Sequence](https://github.com/vedez/C_Programming/blob/c57df1a85b7b346ef8ecd3d63cff8e17b336704c/Projects/Fibonacci_Sequence.c)
